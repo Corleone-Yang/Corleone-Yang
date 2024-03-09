@@ -37,16 +37,11 @@ I'm a passionate **[Software Development Engineer/Machine Learning Engineer]** w
 
 ### [FashionMNIST Classification]([project_1_link](https://github.com/Corleone-Yang/FashionMNIST_tinyVGG/blob/main/FashionMNIST_Pytorch_ComputerVision_Linear_NonLinear_CNN.ipynb))
 
-![Project 1 Screenshot](![download](https://github.com/Corleone-Yang/Corleone-Yang/assets/137965901/f08a63dd-efce-4cc2-97aa-1d2406f31faf)
-)
+![download](https://github.com/Corleone-Yang/Corleone-Yang/assets/137965901/4d1b15e8-5067-4859-ae87-1a0c8d4dfcc4)
+
 
 **[FashionMNIST Classification]** is a **[machine learning project]** built with **[Convolutional Neural Networ - tinyVGG Architecture**. This project demonstrates my ability to **[Data Preparation, Data Preprocessing, Modeling, Model test, Visualizaion]**. You can check out the repository [here]([project_1_repository_link](https://github.com/Corleone-Yang/FashionMNIST_tinyVGG)).
 
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
