@@ -1,6 +1,6 @@
 # Hi there, I'm Corleone Yang! 👋 
 
-![Banner Image](your_banner_image_url_here)
+![safar-safarov-koOdUvfGr4c-unsplash](https://github.com/Corleone-Yang/Corleone-Yang/assets/137965901/02026f6f-88d3-42ea-9433-bbfe0cc5f55c)
 
 ## About Me 🚀
 
