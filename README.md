@@ -10,7 +10,7 @@ I'm a passionate **[Software Development Engineer/Machine Learning Engineer]** w
 - 🔭 Working on: **[Residual Neuron Network and tiny VGG to classify the FashionMNIST/Internship in Baynovation for API microservice developement]**
 - 🌍 Languages: **[Python, Java, C++, C, CUDA, R, Matlab, HTML/CSS, JavaScript, TypeScript, Golang, SQL]**
 - ⚡ Framework: **[PyTorch, TensroFlow, scikit-learn, Pandas, Numpy, Matplotlib.pyplot]**
-- 🔧 Frontend/Backend: **[AWS/Azure/GCP, Node.js, React, Springboot, Springcloud, MongoDB, Redis, Kubernetes/Docker]
+- 🔧 Frontend/Backend: **[AWS/Azure/GCP, Node.js, React, Springboot, Springcloud, MongoDB, Redis, Kubernetes/Docker]**
 - 📫 How to reach me: **[yahe.yang@gwmail.gwu.edu]**
   
 ## My Skills 🧠
