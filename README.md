@@ -1,6 +1,6 @@
-# Hi there, I'm [Corleone Yang]! 👋
+# Hi there, I'm Corleone Yang! 👋 
 
-![Banner Image]([your_banner_image_url_here](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg))
+![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
