@@ -49,9 +49,7 @@ I'm a passionate **[Software Development Engineer/Machine Learning Engineer]** w
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/corleone-yang-a20045293/)https://www.linkedin.com/in/corleone-yang-a20045293/)
 
 
 
