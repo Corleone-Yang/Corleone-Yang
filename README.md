@@ -35,13 +35,6 @@ I'm a passionate **[Software Development Engineer/Machine Learning Engineer]** w
 
 ## Featured Projects 💻
 
-### [FashionMNIST Classification]([project_1_link](https://github.com/Corleone-Yang/FashionMNIST_tinyVGG/blob/main/FashionMNIST_Pytorch_ComputerVision_Linear_NonLinear_CNN.ipynb))
-
-![download](https://github.com/Corleone-Yang/Corleone-Yang/assets/137965901/4d1b15e8-5067-4859-ae87-1a0c8d4dfcc4)
-
-
-**[FashionMNIST Classification]** is a **[machine learning project]** built with **[Convolutional Neural Networ - tinyVGG Architecture**. This project demonstrates my ability to **[Data Preparation, Data Preprocessing, Modeling, Model test, Visualizaion]**. You can check out the repository [here]([project_1_repository_link](https://github.com/Corleone-Yang/FashionMNIST_tinyVGG)).
-
 
 ## Get in Touch 📬
 
