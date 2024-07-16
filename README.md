@@ -1,6 +1,5 @@
 # Hi there, I'm Corleone Yang! 👋 
-
-![image](https://github.com/Corleone-Yang/Corleone-Yang/assets/137965901/965c4c5b-59b8-4c1b-bdb8-7f03e7a28e52)
+# Weclome to my World !
 
 ## About Me 🚀
 
