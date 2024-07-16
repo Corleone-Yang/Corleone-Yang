@@ -11,11 +11,13 @@ I'm a passionate **[Software Engineer/Machine Learning Engineer]** with experien
 - Cloud/Big Data: **[AWS, Azure, GCP, Spark, Hadoop, Databricks, Snowflake]**
 - How to reach me: **[yahe.yang@gwmail.gwu.edu]**
 - Badages:
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="707fcb63-b8b7-4d6c-b563-77c271588344" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="620eda6a-dd15-46ca-aaa4-2c74e05368aa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="af1d6902-4282-47f7-97b4-ca5b090ca4ef" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-  
+**[Azure Fundamental]**([Azure Fundamental](https://learn.microsoft.com/en-us/users/yangyahe-7355/credentials/certification/azure-fundamentals?tab=credentials-tab))
+**[Azure AI Fundamental]**([Azure AI Fundamental](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification))
+**[Azure AI Engineer Associate]**([Azure Fundamental](https://learn.microsoft.com/en-us/users/yangyahe-7355/credentials/certification/azure-ai-engineer?tab=credentials-tab))
+**[Azure Fundamental]**([Azure Fundamental](https://learn.microsoft.com/en-us/users/yangyahe-7355/credentials/certification/azure-fundamentals?tab=credentials-tab))
+**[Azure Fundamental]**([Azure Fundamental](https://learn.microsoft.com/en-us/users/yangyahe-7355/credentials/certification/azure-fundamentals?tab=credentials-tab))
+**[Azure Fundamental]**([Azure Fundamental](https://learn.microsoft.com/en-us/users/yangyahe-7355/credentials/certification/azure-fundamentals?tab=credentials-tab))
+    
 ## My Skills 🧠
 
 <div align="center">
