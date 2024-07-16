@@ -1,13 +1,12 @@
 # Hi there, I'm Corleone Yang! 👋 
-# Weclome to my World !
 
 ## About Me 🚀
 
-I'm a passionate **[Software Development Engineer/Machine Learning Engineer]** with experience in **[Software Development/Machine Learning Model Train-Test-Depolyment]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[Software Engineer/Machine Learning Engineer]** with experience in **[Software Development/Machine Learning Model Train-Test-Depolyment]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[Kubernetes/AWS-Azure-GCP/Machine Learning Model(Reinforcement Learning, Transformer, GAN)]**
 - 🔭 Working on: **[Residual Neuron Network and tiny VGG to classify the FashionMNIST/Internship in Baynovation for API microservice developement]**
-- 🌍 Languages: **[Python, Java, C++, C, CUDA, R, Matlab, HTML/CSS, JavaScript, TypeScript, Golang, SQL]**
+- 🌍 Languages: **[Python, Java, C++, C, C#, CUDA, R, Matlab, HTML/CSS, JavaScript/TypeScript, Golang, SQL]**
 - ⚡ Framework: **[PyTorch, TensroFlow, scikit-learn, Pandas, Numpy, Matplotlib.pyplot]**
 - 🔧 Frontend/Backend: **[AWS/Azure/GCP, Node.js, React, Springboot, Springcloud, MongoDB, Redis, Kubernetes/Docker]**
 - 📫 How to reach me: **[yahe.yang@gwmail.gwu.edu]**
@@ -38,6 +37,7 @@ I'm a passionate **[Software Development Engineer/Machine Learning Engineer]** w
 ## Get in Touch 📬
 
 - **[LinkedIn]**([My Profile](https://www.linkedin.com/in/yahe-yang-a20045293/))
+- **[Kaggle]**[My Kaggle](https://www.kaggle.com/corleoneyyh))
 
 
 
