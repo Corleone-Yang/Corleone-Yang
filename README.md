@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Software Engineer/Machine Learning Engineer]** with experience in **[Software Development/Machine Learning Model Train-Test-Depolyment]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[Software Engineer, Machine Learning Engineer]** with experience in **[Software Development, Machine Learning Model Train-Test-Depolyment]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 
 - Languages: **[Python, Java, C++, C, C#, CUDA, R, Matlab, HTML/CSS, JavaScript/TypeScript, Golang, SQL]**
