@@ -74,7 +74,7 @@ I'm a passionate **[Software Engineer, Machine Learning Engineer]** with experie
 </div>
 
 
-## Featured Projects 💻
+## Publications 💻
 
 
 ## Get in Touch 📬
