@@ -4,12 +4,17 @@
 
 I'm a passionate **[Software Engineer/Machine Learning Engineer]** with experience in **[Software Development/Machine Learning Model Train-Test-Depolyment]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Kubernetes/AWS-Azure-GCP/Machine Learning Model(Reinforcement Learning, Transformer, GAN)]**
-- 🔭 Working on: **[Residual Neuron Network and tiny VGG to classify the FashionMNIST/Internship in Baynovation for API microservice developement]**
-- 🌍 Languages: **[Python, Java, C++, C, C#, CUDA, R, Matlab, HTML/CSS, JavaScript/TypeScript, Golang, SQL]**
-- ⚡ Framework: **[PyTorch, TensroFlow, scikit-learn, Pandas, Numpy, Matplotlib.pyplot]**
-- 🔧 Frontend/Backend: **[AWS/Azure/GCP, Node.js, React, Springboot, Springcloud, MongoDB, Redis, Kubernetes/Docker]**
-- 📫 How to reach me: **[yahe.yang@gwmail.gwu.edu]**
+
+- Languages: **[Python, Java, C++, C, C#, CUDA, R, Matlab, HTML/CSS, JavaScript/TypeScript, Golang, SQL]**
+- Machine Learning: **[PyTorch, TensroFlow, scikit-learn, Pandas, Numpy, Matplotlib.pyplot, Faiss, HuggingFace, LangChain]**
+- Frontend/Backend/Database: **[Springboot, Springcloud, Django, Flask, React, Firebase, Next.js, PostgreSQL, MongoDB, Redis, Kubernetes/Docker, git]**
+- Cloud/Big Data: **[AWS, Azure, GCP, Spark, Hadoop, Databricks, Snowflake]**
+- How to reach me: **[yahe.yang@gwmail.gwu.edu]**
+- Badages:
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="707fcb63-b8b7-4d6c-b563-77c271588344" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="620eda6a-dd15-46ca-aaa4-2c74e05368aa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="af1d6902-4282-47f7-97b4-ca5b090ca4ef" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
   
 ## My Skills 🧠
 
