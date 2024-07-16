@@ -9,7 +9,6 @@ I'm a passionate **[Software Engineer/Machine Learning Engineer]** with experien
 - Machine Learning: **[PyTorch, TensroFlow, scikit-learn, Pandas, Numpy, Matplotlib.pyplot, Faiss, HuggingFace, LangChain]**
 - Frontend/Backend/Database: **[Springboot, Springcloud, Django, Flask, React, Firebase, Next.js, PostgreSQL, MongoDB, Redis, Kubernetes/Docker, git]**
 - Cloud/Big Data: **[AWS, Azure, GCP, Spark, Hadoop, Databricks, Snowflake]**
-- How to reach me: **[yahe.yang@gwmail.gwu.edu]**
 - Badages:
 **Azure Fundamental** ([Badge](https://learn.microsoft.com/en-us/users/yangyahe-7355/credentials/certification/azure-fundamentals?tab=credentials-tab))
 **Azure AI Fundamental**([Badge](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification))
@@ -17,6 +16,7 @@ I'm a passionate **[Software Engineer/Machine Learning Engineer]** with experien
 **AWS Certified Cloud Practitioner**([Badge](https://www.credly.com/earner/earned/badge/707fcb63-b8b7-4d6c-b563-77c271588344))
 **AWS Certifited Solution Architect - Associate**([Badge](https://www.credly.com/earner/earned/badge/af1d6902-4282-47f7-97b4-ca5b090ca4ef))
 **AWS Certifited Data Engineer - Associate**([Badge](https://www.credly.com/earner/earned/badge/620eda6a-dd15-46ca-aaa4-2c74e05368aa))
+- How to reach me: **[yahe.yang@gwmail.gwu.edu]**
     
 ## My Skills 🧠
 
