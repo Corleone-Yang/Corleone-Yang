@@ -13,9 +13,9 @@ I'm a passionate **[Software Engineer, Machine Learning Engineer]** with experie
 **Azure Fundamental** ([Badge](https://learn.microsoft.com/en-us/users/yangyahe-7355/credentials/certification/azure-fundamentals?tab=credentials-tab))
 **Azure AI Fundamental**([Badge](https://learn.microsoft.com/en-us/users/yangyahe-7355/credentials/certification/azure-ai-fundamentals?tab=credentials-tab))
 **Azure AI Engineer Associate**([Badge](https://learn.microsoft.com/en-us/users/yangyahe-7355/credentials/certification/azure-ai-engineer?tab=credentials-tab))
-**AWS Certified Cloud Practitioner**([Badge](https://www.credly.com/earner/earned/badge/707fcb63-b8b7-4d6c-b563-77c271588344))
-**AWS Certifited Solution Architect - Associate**([Badge](https://www.credly.com/earner/earned/badge/af1d6902-4282-47f7-97b4-ca5b090ca4ef))
-**AWS Certifited Data Engineer - Associate**([Badge](https://www.credly.com/earner/earned/badge/620eda6a-dd15-46ca-aaa4-2c74e05368aa))
+**AWS Certified Cloud Practitioner**([Badge](https://www.credly.com/badges/707fcb63-b8b7-4d6c-b563-77c271588344/public_url))
+**AWS Certifited Solution Architect - Associate**([Badge](https://www.credly.com/badges/af1d6902-4282-47f7-97b4-ca5b090ca4ef/public_url))
+**AWS Certifited Data Engineer - Associate**([Badge](https://www.credly.com/badges/620eda6a-dd15-46ca-aaa4-2c74e05368aa/public_url))
 - How to reach me: **[yahe.yang@gwmail.gwu.edu]**
     
 ## My Skills 🧠
