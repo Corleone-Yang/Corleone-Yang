@@ -6,7 +6,7 @@ I'm a passionate **[Software Engineer, Machine Learning Engineer]** with experie
 
 
 - Languages: **[Python, Java, C++, C, C#, CUDA, R, Matlab, HTML/CSS, JavaScript/TypeScript, Golang, SQL]**
-- Machine Learning: **[PyTorch, TensroFlow, scikit-learn, Pandas, Numpy, Matplotlib.pyplot, OpenCV. Faiss, HuggingFace, LangChain]**
+- Machine Learning: **[PyTorch, TensroFlow, scikit-learn, Pandas, Numpy, Matplotlib.pyplot, OpenCV, Faiss, HuggingFace, LangChain]**
 - Frontend/Backend/Database: **[Springboot, Springcloud, Django, Flask, React, Firebase, Next.js, PostgreSQL, MongoDB, Redis, Kubernetes/Docker, git]**
 - Cloud/Big Data: **[AWS, Azure, GCP, Spark, Hadoop, Databricks, Snowflake]**
 - Badages:
