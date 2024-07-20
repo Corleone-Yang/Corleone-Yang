@@ -77,10 +77,7 @@ I'm a passionate **[Software Engineer, Machine Learning Engineer]** with experie
 ## Publications 💻
 
 
-## Get in Touch 📬
 
-- **[LinkedIn]**([My Profile](https://www.linkedin.com/in/yahe-yang-a20045293/))
-- **[Kaggle]**[My Kaggle](https://www.kaggle.com/corleoneyyh))
 
 
 
