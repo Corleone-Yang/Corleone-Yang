@@ -74,7 +74,10 @@ I'm a passionate **[Software Engineer, Machine Learning Engineer]** with experie
 </div>
 
 
-## Publications 💻
+## Contact me 💻
+[![Google Scholar](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/google-scholar.png)](https://scholar.google.com/citations?user=sA-gK0oAAAAJ&hl=en)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/linkedin.png)](https://www.linkedin.com/in/yahe-yang-a20045293/)
+[![Personal Website](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/globe.png)](https://corleoneyang.dev/)
 
 
 
