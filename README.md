@@ -76,15 +76,34 @@ I'm a passionate **[Software Engineer, Machine Learning Engineer]** with experie
 
 ## Contact me 💻
 
-<a href="https://scholar.google.com/citations?user=sA-gK0oAAAAJ&hl=en">
-  <img src="./google-scholar.svg" alt="Google Scholar" width="40"/>
-</a>
-<a href="https://www.linkedin.com/in/yahe-yang-a20045293/">
-  <img src="./linkedin.png" alt="LinkedIn" width="40"/>
-</a>
-<a href="https://corleoneyang.dev/">
-  <img src="./website.png" alt="Personal Website" width="40"/>
-</a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <a href="https://scholar.google.com/citations?user=sA-gK0oAAAAJ&hl=en">
+          <img src="./google-scholar.svg" alt="Google Scholar" width="40"/><br>
+          <span>Google Scholar</span>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://www.linkedin.com/in/yahe-yang-a20045293/">
+          <img src="./linkedin.png" alt="LinkedIn" width="40"/><br>
+          <span>LinkedIn</span>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://corleoneyang.dev/">
+          <img src="./website.png" alt="Personal Website" width="40"/><br>
+          <span>Personal Website</span>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
 
 
 
