@@ -73,11 +73,12 @@ I'm a passionate **[Software Engineer, Machine Learning Engineer]** with experie
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
 
+![google-scholar](https://github.com/user-attachments/assets/966d6aee-14e9-4830-9e81-07be7da086af)
 
 ## Contact me 💻
-[![Google Scholar](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/google-scholar.png)](https://scholar.google.com/citations?user=sA-gK0oAAAAJ&hl=en)
-[![LinkedIn](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/linkedin.png)](https://www.linkedin.com/in/yahe-yang-a20045293/)
-[![Personal Website](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/globe.png)](https://corleoneyang.dev/)
+
+
+
 
 
 
